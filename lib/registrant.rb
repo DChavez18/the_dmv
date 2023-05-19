@@ -7,7 +7,9 @@ class Registrant
       @license_data = { written: false, license: false, renewed: false }
       @permit = has_permit
     end
+
   end
+  
 
 # class Registrant
 #     attr_reader :name,
